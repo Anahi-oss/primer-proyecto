@@ -1,0 +1,28 @@
+/* comentarios*/
+body {
+    background-color: #dbb7c1;
+    font-family: "Agu Display", serif;
+    font-size: 15px;
+}
+
+img {
+    border-radius: 200px;
+    width: 300px;
+}
+
+.muñecodetim {
+    width: 360px;
+    opacity: 0.5;
+    border: dashed;
+}
+
+.fotodetimburton {
+    border: dashed;
+}
+
+h2 {
+    text-align: center;
+}
+.imagenes{
+    text-align: center;
+}
